@@ -1,0 +1,106 @@
+sale_date,channel,product,category,sales_baht,new_customer,gender,age_group,satisfaction_score,customer_feedback
+2025-04-21,Shopee,Wireless Earbuds,Electronics,990,No,Female,55+,2,Very good quality
+2025-04-05,Shopee,Bluetooth Speaker,Electronics,1790,No,Female,55+,1,"Great sound, very easy to use"
+2025-04-03,Website,Workout Set,Clothing,1290,Yes,Female,35-44,5,Very good quality
+2025-04-23,LINE OA,Workout Set,Clothing,1290,No,Female,45-54,5,UI is not very smooth
+2025-04-26,Shopee,Smartwatch,Electronics,2290,No,Male,55+,3,UI is not very smooth
+2025-04-05,Website,Sweatpants,Clothing,990,Yes,Female,35-44,1,Fits well and comfortable
+2025-04-04,Lazada,Sweatpants,Clothing,990,No,Male,35-44,1,Looks better than the picture
+2025-04-15,Shopee,Jacket,Clothing,1590,Yes,Male,45-54,5,UI is not very smooth
+2025-04-27,Lazada,Workout Set,Clothing,1290,Yes,Female,35-44,1,Full features but battery drains fast
+2025-04-08,Lazada,Bluetooth Speaker,Electronics,1790,Yes,Male,35-44,1,Fits well and comfortable
+2025-04-09,LINE OA,Sweatpants,Clothing,990,Yes,Male,35-44,3,Bluetooth connection issue
+2025-04-07,Lazada,Bluetooth Speaker,Electronics,1790,Yes,Male,25-34,5,Looks better than the picture
+2025-04-08,Website,Polo Shirt,Clothing,690,No,Male,18-24,3,Full features but battery drains fast
+2025-04-23,Website,Sweatpants,Clothing,990,Yes,Male,25-34,2,"Great sound, very easy to use"
+2025-04-26,Lazada,Jacket,Clothing,1590,No,Male,35-44,1,Very good quality
+2025-04-30,Lazada,Workout Set,Clothing,1290,No,Male,18-24,4,Full features but battery drains fast
+2025-04-15,Website,Premium T-shirt,Clothing,590,Yes,Male,55+,2,Looks better than the picture
+2025-04-18,Lazada,Jacket,Clothing,1590,No,Male,25-34,3,Very good quality
+2025-04-05,LINE OA,Bluetooth Speaker,Electronics,1790,Yes,Male,25-34,1,Battery drains quickly
+2025-04-21,Website,Jacket,Clothing,1590,Yes,Female,25-34,4,Fits well and comfortable
+2025-04-20,LINE OA,Premium T-shirt,Clothing,590,Yes,Male,45-54,1,Full features but battery drains fast
+2025-04-29,Lazada,Sweatpants,Clothing,990,Yes,Male,35-44,3,Fits well and comfortable
+2025-04-06,LINE OA,Wireless Earbuds,Electronics,990,No,Female,55+,5,"Very fast delivery, excellent service"
+2025-04-06,Shopee,Premium T-shirt,Clothing,590,Yes,Female,55+,2,Bluetooth connection issue
+2025-04-25,Website,Wireless Earbuds,Electronics,990,No,Female,55+,4,"Great sound, very easy to use"
+2025-04-04,Lazada,Premium T-shirt,Clothing,590,Yes,Male,35-44,1,Very good quality
+2025-04-29,Shopee,Bluetooth Speaker,Electronics,1790,No,Male,18-24,1,"Very fast delivery, excellent service"
+2025-04-18,Website,Smartwatch,Electronics,2290,No,Male,25-34,5,Battery drains quickly
+2025-04-09,LINE OA,Workout Set,Clothing,1290,Yes,Female,35-44,3,Fits well and comfortable
+2025-04-22,Lazada,Polo Shirt,Clothing,690,No,Male,25-34,1,Very good quality
+2025-04-08,Shopee,Sweatpants,Clothing,990,Yes,Male,35-44,5,Slightly dented box
+2025-04-08,Website,Wireless Earbuds,Electronics,990,Yes,Female,25-34,1,Very good quality
+2025-04-03,Shopee,Sweatpants,Clothing,990,Yes,Female,35-44,5,Very good quality
+2025-04-09,LINE OA,Workout Set,Clothing,1290,Yes,Female,18-24,5,Sound is very low
+2025-04-16,Website,Polo Shirt,Clothing,690,No,Male,55+,2,Item arrived late and box was dented
+2025-04-04,LINE OA,Sweatpants,Clothing,990,No,Male,25-34,4,More comfortable than expected
+2025-04-28,Shopee,Bluetooth Speaker,Electronics,1790,Yes,Male,35-44,4,Looks better than the picture
+2025-04-11,Shopee,Workout Set,Clothing,1290,Yes,Male,18-24,2,Slightly dented box
+2025-04-15,Website,Jacket,Clothing,1590,Yes,Female,18-24,3,More comfortable than expected
+2025-04-08,Shopee,Polo Shirt,Clothing,690,Yes,Male,55+,1,Full features but battery drains fast
+2025-04-18,Shopee,Bluetooth Speaker,Electronics,1790,Yes,Male,35-44,2,Fits well and comfortable
+2025-04-16,LINE OA,Workout Set,Clothing,1290,No,Female,25-34,1,Battery drains quickly
+2025-04-13,Shopee,Jacket,Clothing,1590,No,Female,45-54,4,UI is not very smooth
+2025-04-14,LINE OA,Smartwatch,Electronics,2290,Yes,Female,18-24,3,Very good quality
+2025-05-01,Shopee,Wireless Earbuds,Electronics,990,No,Male,18-24,1,"Great sound, very easy to use"
+2025-04-19,LINE OA,Smartwatch,Electronics,2290,Yes,Female,55+,5,Item arrived late and box was dented
+2025-04-28,Website,Bluetooth Speaker,Electronics,1790,Yes,Male,35-44,2,Fits well and comfortable
+2025-04-04,Website,Wireless Earbuds,Electronics,990,Yes,Female,45-54,4,Full features but battery drains fast
+2025-04-19,Lazada,Premium T-shirt,Clothing,590,Yes,Female,45-54,3,Very good quality
+2025-04-09,LINE OA,Smartwatch,Electronics,2290,No,Male,45-54,4,Bluetooth connection issue
+2025-04-30,Shopee,Wireless Earbuds,Electronics,990,No,Female,35-44,5,Sound is very low
+2025-04-04,Shopee,Workout Set,Clothing,1290,No,Female,25-34,2,Bluetooth connection issue
+2025-04-29,Shopee,Workout Set,Clothing,1290,No,Female,18-24,3,Battery drains quickly
+2025-04-15,Lazada,Wireless Earbuds,Electronics,990,No,Male,35-44,1,Battery drains quickly
+2025-04-09,Shopee,Bluetooth Speaker,Electronics,1790,Yes,Female,45-54,3,UI is not very smooth
+2025-04-20,Website,Sweatpants,Clothing,990,Yes,Male,18-24,3,Slightly dented box
+2025-04-16,Lazada,Wireless Earbuds,Electronics,990,Yes,Female,18-24,4,UI is not very smooth
+2025-04-02,Shopee,Sweatpants,Clothing,990,Yes,Female,45-54,3,Battery drains quickly
+2025-04-24,LINE OA,Jacket,Clothing,1590,Yes,Female,45-54,1,Item arrived late and box was dented
+2025-05-01,Website,Wireless Earbuds,Electronics,990,No,Female,18-24,5,Slightly dented box
+2025-04-05,LINE OA,Smartwatch,Electronics,2290,Yes,Female,55+,3,Bluetooth connection issue
+2025-04-29,Shopee,Sweatpants,Clothing,990,Yes,Female,18-24,2,Full features but battery drains fast
+2025-04-04,Lazada,Jacket,Clothing,1590,Yes,Male,25-34,2,Battery drains quickly
+2025-04-26,Website,Jacket,Clothing,1590,Yes,Male,25-34,2,Looks better than the picture
+2025-04-30,Lazada,Jacket,Clothing,1590,Yes,Female,55+,3,Battery drains quickly
+2025-04-26,Shopee,Jacket,Clothing,1590,Yes,Female,35-44,4,Very good quality
+2025-04-07,LINE OA,Sweatpants,Clothing,990,No,Male,18-24,2,Very good quality
+2025-04-01,Website,Jacket,Clothing,1590,No,Female,25-34,3,Item arrived late and box was dented
+2025-05-01,Lazada,Sweatpants,Clothing,990,No,Female,18-24,5,Bluetooth connection issue
+2025-05-01,Shopee,Bluetooth Speaker,Electronics,1790,No,Female,55+,2,Sound is very low
+2025-05-01,Lazada,Wireless Earbuds,Electronics,990,Yes,Male,45-54,5,Fits well and comfortable
+2025-04-12,Lazada,Jacket,Clothing,1590,Yes,Female,55+,4,Sound is very low
+2025-04-07,Lazada,Wireless Earbuds,Electronics,990,No,Female,55+,1,Slightly dented box
+2025-04-30,Website,Sweatpants,Clothing,990,No,Male,55+,1,Full features but battery drains fast
+2025-04-30,Lazada,Sweatpants,Clothing,990,Yes,Female,25-34,3,Slightly dented box
+2025-04-10,LINE OA,Sweatpants,Clothing,990,No,Male,55+,3,Slightly dented box
+2025-04-05,Website,Jacket,Clothing,1590,No,Female,45-54,2,Sound is very low
+2025-04-19,Lazada,Jacket,Clothing,1590,Yes,Female,45-54,3,UI is not very smooth
+2025-04-07,LINE OA,Sweatpants,Clothing,990,No,Female,45-54,4,More comfortable than expected
+2025-04-22,Website,Polo Shirt,Clothing,690,Yes,Female,35-44,1,UI is not very smooth
+2025-04-17,Lazada,Bluetooth Speaker,Electronics,1790,Yes,Female,55+,3,Very good quality
+2025-04-26,Website,Smartwatch,Electronics,2290,Yes,Male,45-54,1,Very good quality
+2025-04-16,Shopee,Polo Shirt,Clothing,690,No,Male,35-44,5,Very good quality
+2025-04-23,LINE OA,Polo Shirt,Clothing,690,No,Male,55+,2,Battery drains quickly
+2025-04-21,Shopee,Bluetooth Speaker,Electronics,1790,No,Male,55+,2,Battery drains quickly
+2025-04-26,LINE OA,Wireless Earbuds,Electronics,990,Yes,Female,18-24,1,More comfortable than expected
+2025-04-05,LINE OA,Sweatpants,Clothing,990,No,Female,55+,5,Looks better than the picture
+2025-04-29,LINE OA,Polo Shirt,Clothing,690,Yes,Male,18-24,4,More comfortable than expected
+2025-04-09,Website,Premium T-shirt,Clothing,590,No,Female,25-34,2,UI is not very smooth
+2025-04-15,Shopee,Premium T-shirt,Clothing,590,Yes,Female,25-34,3,Bluetooth connection issue
+2025-04-11,Shopee,Smartwatch,Electronics,2290,Yes,Female,35-44,2,Fits well and comfortable
+2025-04-23,Website,Workout Set,Clothing,1290,Yes,Male,18-24,4,Fits well and comfortable
+2025-04-11,LINE OA,Jacket,Clothing,1590,Yes,Male,25-34,2,Fits well and comfortable
+2025-04-13,Shopee,Jacket,Clothing,1590,No,Female,25-34,1,Bluetooth connection issue
+2025-04-10,LINE OA,Jacket,Clothing,1590,Yes,Male,25-34,4,Very good quality
+2025-04-09,LINE OA,Polo Shirt,Clothing,690,Yes,Female,55+,4,Bluetooth connection issue
+2025-04-22,LINE OA,Smartwatch,Electronics,2290,No,Male,18-24,2,Sound is very low
+2025-04-18,Shopee,Jacket,Clothing,1590,Yes,Female,25-34,1,Full features but battery drains fast
+2025-04-14,Website,Polo Shirt,Clothing,690,Yes,Female,18-24,1,UI is not very smooth
+2025-04-13,Lazada,Workout Set,Clothing,1290,No,Female,45-54,3,Bluetooth connection issue
+2025-04-15,Shopee,Smartwatch,Electronics,990,Yes,Female,25-34,2,"Great sound, very easy to use"
+2025-04-15,Shopee,Wireless Earbuds,Electronics,2290,No,Female,25-34,4,Very good quality
+2025-04-15,Shopee,Bluetooth Speaker,Electronics,1790,Yes,Female,25-34,3,UI is not very smooth
+2025-04-15,Shopee,Wireless Earbuds,Electronics,2290,No,Female,25-34,3,"Great sound, very easy to use"
+2025-04-15,Shopee,Smartwatch,Electronics,990,Yes,Female,25-34,4,"Great sound, very easy to use"
